@@ -33,8 +33,8 @@ const Footer = () => {
         <div className="py-5 px-3 text-gray-400 flex flex-col items-center md:flex-row md:w-full md:justify-between ">
             <p>© 2025 Good Tech HQ. All rights reserved.</p>
             <div className="flex gap-2" >
-                <p>Privacy Policy</p>
-                <p>Terms of Service</p>
+                <p>Privacy Policy.</p>
+                <p>Terms of Service.</p>
             </div>
         </div>        
     </div>

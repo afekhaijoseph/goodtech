@@ -11,7 +11,7 @@ const Homepage = () => {
   return (
     <div>
     <NavBar/>
-    <div className="w-11/12 mx-auto">
+    <div className="w-11/12 mx-auto p-1">
       <Hero/>
       <About/>
       <Projects/>

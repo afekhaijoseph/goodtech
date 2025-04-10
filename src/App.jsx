@@ -5,6 +5,6 @@ function App() {
       <Homepage/>
     </>
   )
-}
+} 
 
 export default App

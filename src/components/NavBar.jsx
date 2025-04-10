@@ -12,8 +12,9 @@ export const NavBar = () => {
     <div className="sticky top-0 z-50 w-full">
       <div className="min-w-full h-fit flex flex-row items-center justify-between bg-white border-y border-gray-200 p-3">
         <h2 className="text-xl font-semibold text-blue-950">
-          Good<span className="text-[#ff00cc]">Tech</span>{" "}
-          <span className="text-[#333399]">HQ</span>
+          <a href="/">Good<span className="text-[#ff00cc]">Tech</span>{" "}
+          <span className="text-[#333399]">HQ</span></a>
+          
         </h2>
 
         <div
